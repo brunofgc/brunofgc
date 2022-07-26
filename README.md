@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @brunofgc
+- 👀 I’m interested in electronic and programming
+- 🌱 I’m currently learning ESP32-C3 micro controler
+- 💞️ I’m looking to collaborate on electronic and programming
+- 📫 How to reach me here on git hub for a while
